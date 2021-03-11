@@ -1,0 +1,53 @@
+.myname {
+    display: flex;
+    justify-content: center;
+}
+
+.myname h1 {
+    color: cadetblue;
+    font-size: 50px;
+}
+
+#info .about img {
+    margin-left: 100px;
+    margin-right: 50px;
+}
+
+#info .about h1 {
+    padding-left: 50px;
+
+}
+
+#info .about h2 {
+    padding-left: 50px;
+
+}
+
+#info .about p {
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: 20px;
+}
+
+.about a {
+    margin-top: 50px;
+
+}
+
+.aboutheader {
+    display: flex;
+
+
+}
+
+.hobbies {
+    padding-left: 50px;
+}
+
+.Favouritelinks {
+    padding-left: 50px;
+}
+
+#linkedimg {
+    
+}
